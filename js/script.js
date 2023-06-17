@@ -22,3 +22,5 @@ document.addEventListener('DOMContentLoaded', () => {
 });
 
 cookieBtn.addEventListener('click', () => cookie.classList.remove('cookies__show'));
+
+
